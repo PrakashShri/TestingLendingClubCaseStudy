@@ -1,5 +1,5 @@
 # Project Name
-> Leading Club Case Study.
+> EDA Analysis For Leading Club Case Study.
 
 
 ## Table of Contents
