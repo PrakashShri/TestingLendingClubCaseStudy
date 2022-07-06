@@ -11,9 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- This project involve EDA analysis for the loan provided by the financial institutions/bank .It analysed the historical data for the customers and help the financial institutions/bank to identify the driving factors behind loan default
-- It helps financial institutions/bank to identify the driving factors behind loan default.
-- To identify the driving factors behind loan default.
+- This project involve EDA analysis for the loan provided by the financial institutions/bank .It analysed the historical data for the customers and help the financial institutions/bank to identify the driving factors behind loan default. This project contain deatiled analysis on historical data for Leading Club and provide recommendations which will help the organization to take decision related to defaulters.
 - Data set used for Leading club and source data was provided in excel.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -36,6 +34,7 @@
 
 
 ## Technologies Used
+- We have used python coding to analyze the data and below are the few important libraries name from python which is used in the analysis
 - library 1 - pandas
 - library 2- numpy
 - library 3- seaborn
